@@ -9,8 +9,7 @@ The analysis aims to:
 - Analyze the **distribution** of electric vehicles across states and models.
 - Provide insights on the **market dominance** of various manufacturers and the **impact of CAFV incentives**.
 
-![Electric Vehicle Data Dashboard](https://github.com/shivamsahu2001/Electric_Vehicle_Data_Analysis/blob/main/dashboard_image.png)
-
+![Electric Vehicle Data Dashboard](https://github.com/shivamsahu2001/Electric_Vehicles_Data_Analysis/blob/main/EV_Dashboard.png)
 ## Data Analysis Key Performance Indicators (KPIs)
 
 1. **Total Vehicles**: 
